@@ -5,7 +5,7 @@ import axios from 'axios';
 var uri = "http://api.github.com/users/maecapozzi";
 var myUri = "http://localhost:2000/Accounts";
 var localUri = "http://localhost:2000/";
-var ServerUri = "http://45.32.190.35:2000/"
+var ServerUri = "http://45.32.190.35:2000"
 
 
 export default class Form extends React.Component{

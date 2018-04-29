@@ -42,8 +42,8 @@ export default class Form extends React.Component{
     
     render(){
         return(
-            <form>                
-
+            <form>         
+               
                 <input
                 name='firstName'
                 placeholder = 'First Name' value = {this.state.firstName}
